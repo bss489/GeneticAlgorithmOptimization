@@ -1,0 +1,8 @@
+Total Cost = 1987923744
+Max Number of Vehicles used = 9
+Vehicle Cost = 1000
+Vehicle Day Cost = 50000000
+Total Vehicle Days = 39
+Total Distance = 514744
+Distance Cost = 1
+Tool Cost = 37400000
